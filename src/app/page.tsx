@@ -45,8 +45,8 @@ import {
   TableRow,
 } from "@/components/ui/table";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
-import Sidebar from "@/components/Sidebar";
 import Header from "@/components/Header";
+import Sidebar from "@/components/sidebar/Sidebar";
 
 export default function Dashboard() {
   return (
